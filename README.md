@@ -1,5 +1,10 @@
 # OEO-Viewer
 
+![ontology-viewer](https://github.com/adelmemariani/Ontology-Viewer/blob/main/screenshots/oeo-viewer-screenshot-1.png)
+![ontology-viewer](https://github.com/adelmemariani/Ontology-Viewer/blob/main/screenshots/oeo-viewer-screenshot-2.png)
+![ontology-viewer](https://github.com/adelmemariani/Ontology-Viewer/blob/main/screenshots/oeo-viewer-screenshot-3.png)
+![ontology-viewer](https://github.com/adelmemariani/Ontology-Viewer/blob/main/screenshots/oeo-viewer-screenshot-4.png)
+
 1- Install npm:
 
 - On linux: `sudo apt install npm`
