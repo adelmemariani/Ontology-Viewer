@@ -1,4 +1,4 @@
-#Ontology-Viewer
+**Ontology-Viewer**
 
 ![ontology-viewer](https://github.com/adelmemariani/Ontology-Viewer/blob/main/screenshots/oeo-viewer-screenshot-1.png)
 ![ontology-viewer](https://github.com/adelmemariani/Ontology-Viewer/blob/main/screenshots/oeo-viewer-screenshot-2.png)
